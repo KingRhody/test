@@ -1,0 +1,26 @@
+# IDE specific Files
+.idea
+.settings
+.vscode
+.csv
+.log
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.debs
+.github/
+
+# Build files
+# Keep the host build tree available when constructing the runtime image
+build
+!build/
+!build/**
+cmake-build*
+debug*
+
+# Deb file
+.Rproj.user
+
+# Python virtual environment
+venv

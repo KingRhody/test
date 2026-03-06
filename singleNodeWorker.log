@@ -1,0 +1,6 @@
+[20:10:47.916886] [E] [thread 342] [QueryEngine.cpp:853] [onFailure] Query Failed: error in running routine of SourceThread; failed to open a source; Could not connect to: host.docker.internal:32324. Connection refused
+
+ in Query 2.
+[20:11:12.856226] [E] [thread 341] [QueryEngine.cpp:853] [onFailure] Query Failed: error in running routine of SourceThread; failed to open a source; Could not connect to: host.docker.internal:32324. Connection refused
+
+ in Query 3.
